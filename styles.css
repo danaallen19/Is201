@@ -1,0 +1,55 @@
+.hbg {
+    background-image: url('Images/pink\ backdrop.jpg');
+    background-position:unset;
+}   
+
+.vbg {
+    background-image: url('Images/plae\ gree\ background.png');
+    background-position:unset;
+}   
+
+.linkfont {
+    font-family: 'Dancing Script', cursive;
+    color: #333; 
+    font-size: medium;
+    text-align: center;}
+
+.title {
+        font-family: 'lucida handwriting', cursive;
+        color: #333; 
+        font-size: xx-large;
+        text-align: center;
+        text-shadow: 1px 1px rgb(247, 247, 247);
+        }
+
+ .title2 {
+    font-family: 'lucida handwriting', cursive;
+    color: #333; 
+    font-size: xx-large;
+    text-shadow: 1px 1px rgb(247, 247, 247);
+            }
+            
+  .contentfontcenter {
+        font-family: 'Dancing Script', cursive;
+        color: #333; 
+        font-size: medium;
+        text-align: center;
+    }
+
+.contentfont {
+        font-family: 'Dancing Script', cursive;
+        color: #333; 
+        font-size: medium;
+        }
+
+a:hover{
+    text-decoration: underline;
+}
+
+a:visited{
+    color: black;
+}
+
+.center {text-align:center;}
+
+
